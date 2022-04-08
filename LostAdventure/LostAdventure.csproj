@@ -119,5 +119,59 @@
   <ItemGroup>
     <None Include="Resources\arrowRight.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\old-village-in-korea-hyuntae-kim.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Grizzly-Bear-.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\istockphoto-971302068-612x612 %281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\R.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fotolia_53726764_XL.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ad4620633a89aa6369772a17ddf74bad.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\maxresdefault.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\grassArrow.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\battle.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bowww.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dargaon.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\swasf.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\scream.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1_person_cheering-Jett_Rifkin-1851518140.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Throw_Knife-Anonymous-1894795848.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Swords Clashing-SoundBible.com-912903192.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\death-Roman_K-1190383229.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Scary Scream-SoundBible.com-1115384336.wav" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
